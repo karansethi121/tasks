@@ -1,0 +1,150 @@
+body {
+  background-color: #F9F9F9;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color: #5089C6;
+  font-weight: 700;
+}
+
+h3 {
+  color: #39A2DB;
+  font-weight: bold;
+}
+
+h4 {
+  padding-left: 50px;
+  font-weight: 600;
+  margin-top: 50px;
+}
+
+.heading {
+  padding: 20px;
+  margin-left: 30px;
+}
+
+hr {
+  background-color: #c1c5c7;
+  height: 1px;
+  margin: 0 auto;
+  border: 0;
+}
+#search{
+  padding-bottom: 50px;
+}
+#comment {
+  border: 0;
+  margin: 0;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.container {
+  margin-top: 20px;
+  padding-bottom: 50px;
+}
+
+#text-area {
+  margin: 10px 10%;
+}
+
+#New-task {
+
+  margin-left: 80px;
+}
+
+.New-task {
+  padding-left: 160px;
+  padding-bottom: 10px;
+  color: #053742;
+}
+
+.icons {
+  font-size: 18px;
+}
+.center {
+  display: flex;
+  align-items: flex-start;
+  padding-left: 180px;
+  margin: auto;
+}
+.center a {
+  margin: 5px 25px;
+}
+a{
+color: #aab4bc;
+}
+
+#searchBtn {
+  background-color: #5089C6;
+  color: white;
+}
+#links{
+ color: #687980;
+ padding-top: 5px;
+ margin-left: -35px;
+}
+#delete{
+  margin-left: 37.5rem;
+  padding-bottom: 5px;
+}
+#rename{
+  margin-left: 37rem;
+  font-family: 'Open Sans', sans-serif;
+}
+.r1{
+  font-size: 1.2rem;
+  background-color: white;
+  color: #687980;
+  padding: 12px;
+  margin:  0 25px;
+}
+.r2{
+  font-size: 1.2rem;
+  background-color: white;
+  color: #687980;
+  padding: 12px;
+  margin:  0 25px;
+  padding-bottom: 40px;
+}
+.check-line{
+  margin-bottom: 20px;
+  margin-top: -5px;
+width: 97%;
+}
+.check-l{
+  padding: 20px 10px 10px 20px;
+  margin-left: 20px;
+  font-size: 1.2rem;
+  color: #357395;
+  font-weight: bold;
+}
+.input{
+  width: 90%;
+}
+.check-line-l{
+margin: -5px 10px 15px 375px;
+  width: 70%;
+}
+.r3{
+  padding: 50px;
+  margin-left: 10px;
+}
+.check-line-s{
+  height: 3px;
+  margin: 10px;
+  margin-bottom: 40px;
+  width: 97%;
+}
+.cancel{
+  margin-left: 35px;
+}
+#filter-btn{
+  border-radius:0;
+}
+#search-btn{
+  border-radius: 0;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px
+}
